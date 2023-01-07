@@ -1,6 +1,6 @@
 # Task-Manager
 ## What is the idea behind this project?
-NewtonSchool JS Projects - You can Create, Edit and Delete description of the task. The data's are saved on LocalStorage using JavaScript without any data base.
+NewtonSchool JS Projects - You can Create, Edit and Delete description of the task.
 ### Here is the link.....https://jade-eclair-6d26f1.netlify.app.
 #### Methods and Functions using this project:
 1.Add task using onclick eventlistner methods of java script.
