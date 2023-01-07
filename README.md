@@ -1,7 +1,8 @@
 # Task-Manager
 ## What is the idea behind this project?
 NewtonSchool JS Projects - You can Create, Edit and Delete description of the task.
-### Here is the link.....https://jade-eclair-6d26f1.netlify.app.
+### Here is the link.....
+https://ornate-pegasus-580e96.netlify.app
 #### Methods and Functions using this project:
 1.Add task using onclick eventlistner methods of java script.
 2. Create a Modal with overlay for add and delete description.
